@@ -1,0 +1,40 @@
+img#logo {
+    height: 80px;
+    width: 150px;
+}
+
+
+.BG {
+    width: 100%;
+    height: 960px;
+    background-image: url('../img/img-2.jpg');
+    background-size: 100% 100%;
+    border: 3px solid #47c9af;
+    text-align: center;
+    display: inline-block;
+}
+.BG > h1 , p {
+    font-family: sans-serif;
+    position: absolute;
+}
+.BG > h1 {
+    top: 40%;
+    left: 10%;
+    color: black;
+    font-size: 80px;
+    
+}
+
+.BG > p {
+    top: 50%;
+    left: 11%;
+    color: #efefef;
+
+}
+
+.BG > button {
+    position: absolute;
+    top: 55%;
+    left: 11%;
+}
+
