@@ -19,7 +19,7 @@ img#logo {
 }
 .BG > h1 {
     top: 40%;
-    left: 10%;
+    left: 4%;
     color: black;
     font-size: 80px;
     
@@ -27,7 +27,7 @@ img#logo {
 
 .BG > p {
     top: 50%;
-    left: 11%;
+    left: 4%;
     color: #efefef;
 
 }
@@ -35,6 +35,6 @@ img#logo {
 .BG > button {
     position: absolute;
     top: 55%;
-    left: 11%;
+    left:4%;
 }
 
